@@ -1,4 +1,4 @@
-# api-troubleshooter-chatbot
+# api-troubleshooter-chatbot //inprogress
 A Streamlit web app powered by LangChain and OpenAI (GPT-4) that helps troubleshoot API issues interactively. Users can describe their problem, upload documentation, and get step-by-step guidance.
 
 Features
@@ -10,3 +10,8 @@ Features
 ✅ Conversational memory for contextual troubleshooting
 
 ✅ Clean Streamlit UI for easy interaction
+
+
+
+**License**
+MIT License – feel free to use and modify.
